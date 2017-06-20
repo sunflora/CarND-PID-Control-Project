@@ -5,4 +5,4 @@ tags
 
 .idea/*
 cmake*
-video/*
+video/*.mov
