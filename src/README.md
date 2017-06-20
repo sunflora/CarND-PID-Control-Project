@@ -8,6 +8,7 @@ _________________
 
 **Reflections**
 _________________
+
 **Describe the effect each of the P, I, D components had in your implementation.**
 
 The P in P Controller stands for *proportion*.  The P controller allows us to set the steering angle in proportion to the cross-track error (cte), which is the lateral distance between the vehicle and the reference trajectory (could be the curb or the center of the lane). 
